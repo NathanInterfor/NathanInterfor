@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NathanInterfor
+- 👀 I’m interested in writing fantasy short stories and 3D machines.
+- 🌱 I’m currently learning development in the following languages: PHP, HTML, CSS, JavaScript, Python, and React Native.
+- 💞️ I’m looking to collaborate on creative coding projects and open-source 3D printing solutions.
+- ⚡ Fun fact: I live in Amiens, France, and I'm passionate about combining storytelling with technology!
